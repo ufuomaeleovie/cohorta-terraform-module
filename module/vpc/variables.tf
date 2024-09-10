@@ -1,0 +1,9 @@
+variable "region" {}
+variable "project_name" {}
+variable "vpc_cidr_block" {}
+variable "pubsub1_cidr_block" {}
+variable "pubsub2_cidr_block" {}
+variable "privsub1_cidr_block" {}
+variable "privsub2_cidr_block" {}
+variable "privsub3_cidr_block" {}
+variable "privsub4_cidr_block" {}
